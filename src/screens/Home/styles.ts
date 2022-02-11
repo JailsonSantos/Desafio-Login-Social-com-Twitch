@@ -28,7 +28,7 @@ export const Avatar = styled.Image`
 
   width: 48px;
   height: 48px;
-  border-radius: 5px;
+  border-radius: 24px;
 `;
 
 export const UserInfoText = styled.Text`

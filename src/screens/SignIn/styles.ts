@@ -22,7 +22,7 @@ export const LoginBanner = styled.View`
   width: 100%;
 
   background-color: ${props => props.theme.colors.purple};
-  padding: ${getStatusBarHeight(true) + 60}px 40px 60px;
+  padding: ${getStatusBarHeight(true) + 5}px 10px 10px;
 `;
 
 export const LoginInfo = styled.View`
